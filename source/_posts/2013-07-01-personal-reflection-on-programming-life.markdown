@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Personal Reflection on Programming Life"
+date: 2013-07-01 12:42
+comments: true
+categories: [personal, synthetic biology, reflection]
+---
+![](/images/blurrydna.png)
+I recently did a [project](http://djdex.net/sb) called Programming Life in which we had to design an application for synthetic biologist to relieve their programming need when designing new cells. The result was outstanding, but that's not what this post is about. As for any project we do in university, one has to write a reflection that's not about the product or process. This is what I turned in.
+
+* * *
+
+Biology always intrigued me, expect for the asexual reproduction among plants. My favourite subjects have always been protein synthesis and genetics. I don't know why, but the gist of DNA being a blueprint for a product, where a biological computer turns templates into actual instances fascinated me. How do these parts work together? Why do they react the way they do and why does such a complex system keep working? There is so much to explore when it comes to our physiology and even more when you dig into the inner workings. And asking questions I did.
+
+With mitosis, the chromosomes are shorted by a tiny amount. This affect is reversed with reproduction where a enzyme ensures the chromosomes telomeres to be lengthy. Could we solve this problem by creating a 'safe virus' that injects telomerase, the enzyme, into living cells? How many would you need? How would the substances behave? Would it cure some diseases we get when we are of age, because of the broken DNA? Or would it incur more cancerous cells, because faulty ones would be more healthy? But if we can build a virus that does such an incredible thing, can we use biology to solve the other world problems of diminishing natural resources, food and clean drinking water? 
+
+This brings us to today. Before I dived into this project, I always thought the questions and challenges mentioned above were best answered by the field of biotechnology. However the principles I was tought in my - even - younger years, seemed so sloppy to me. Cutting DNA of other organisms into pieces, and sealing them into yet different ones, hoping that the result yields a living cell that doesn't affect it's environment in any other way than intended. But now I know that there is a whole lot more these days. The things we can do combining biology, chemistry and engineering are incredible. I feel enlightened. 
+
+Living with a rare form of lymphoma means that every biological break-through is important. This project made me feel like I could be part of one of those breakthroughs. Yes, I am actively considering this as a future path. I always said Computational Biology is awesome, but Bioinformatics might just be my piece of cake. Not only have I learned that there is more than a mechanical machine, I also feel like this project tought me so much more. Thinking about user experience on a whole new level. Understanding mathematics in chemistry and linking that to biology. It's like all my knowledge is coming together. It's an eye opener.
+
+Building life from scratch kind of feels like playing for God and that got me thinking. What if one day the application we designed would be able to turn the virtual cells into real biological computers? Does that yield a new era of creationists of a new order? Have we, as humanity, reached a level of understanding that we are now capable of shaping the world as we want it, rather than dabbling around with nature's natural gems. I feel discouraged working together with scientist of other fields, because of the condescending and derogatory comments made by students and teachers on a daily basis. Look at what we can do! We can do incredible things. And I want to be part of it - it kind of feels like I already am. Surely my experience feels like level prokaryote, but that just means that there is so much more to explore. Surely questions were answered, but I'm now left with a whole lot more.
