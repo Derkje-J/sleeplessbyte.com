@@ -2,7 +2,7 @@
 layout: post
 title: "Hello, World"
 date: 2013-07-01 11:55
-comments: true
+comments: false
 category: personal
 ---
 How do you start a blog? I've [blogged before](http://blog.derk-jan.com/) but that was more out of necessity than procrastination. I think there are a lot of cases of programmers not knowing where to start; how to begin. So we kick off with [Hello, World](http://cm.bell-labs.com/cm/cs/who/dmr/ctut.pdf).

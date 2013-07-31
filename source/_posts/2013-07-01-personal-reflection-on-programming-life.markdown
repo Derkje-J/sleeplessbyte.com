@@ -2,13 +2,13 @@
 layout: post
 title: "Personal Reflection on Programming Life"
 date: 2013-07-01 12:42
-comments: true
+comments: false
 categories: [personal, synthetic biology, reflection]
 ---
-![](/images/blurrydna.png)
+![](/images/headers/blurrydna.png)
 I recently did a [project](http://djdex.net/sb) called Programming Life in which we had to design an application for synthetic biologist to relieve their programming need when designing new cells. The result was outstanding, but that's not what this post is about. As for any project we do in university, one has to write a reflection that's not about the product or process. This is what I turned in.
 
-* * *
+<!-- more -->
 
 Biology always intrigued me, expect for the asexual reproduction among plants. My favourite subjects have always been protein synthesis and genetics. I don't know why, but the gist of DNA being a blueprint for a product, where a biological computer turns templates into actual instances fascinated me. How do these parts work together? Why do they react the way they do and why does such a complex system keep working? There is so much to explore when it comes to our physiology and even more when you dig into the inner workings. And asking questions I did.
 
